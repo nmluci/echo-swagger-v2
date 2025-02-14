@@ -8,7 +8,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 	swaggerFiles "github.com/swaggo/files/v2"
-	"github.com/swaggo/swag"
+	"github.com/swaggo/swag/v2"
 	"sigs.k8s.io/yaml"
 )
 
